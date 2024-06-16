@@ -43,6 +43,16 @@
 
 /* HEADER END */
 
+/* HERO */
+.hero-section {
+    background-color: red;
+    width: 100%;
+}
+
+
+
+
+/* HERO ENDS */
 
 /* FOOTER */
 
@@ -61,4 +71,8 @@
 
 .footer img {
     max-width: 100px;
+}
+
+.footer ul  li {
+    list-style: none;
 }
