@@ -2,8 +2,8 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer>
-      <img src="" alt="logo" />
+    <footer className="footer">
+      <img src="https://little-lemon-react-capstone.vercel.app/static/media/footer-logo.2c859235d6c57bb54176.png" alt="logo" />
       <div>
         <h3>Doormat Navigation</h3>
         <ul>

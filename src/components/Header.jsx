@@ -1,10 +1,11 @@
 import React from "react";
+import "../App.css"
 
 const Header = () => {
   return (
-    <header>
-      <nav>
-        <img src="" alt="logo" />
+    <header className="header">
+      <nav className="navbar">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_vsRr6NGdZxBWI2M8SVGdfpsEzvyir7tPog&s" alt="logo" />
         <ul>
           <li>
             <a href="#">Home</a>
