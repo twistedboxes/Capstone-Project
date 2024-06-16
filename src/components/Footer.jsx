@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <img src="https://little-lemon-react-capstone.vercel.app/static/media/footer-logo.2c859235d6c57bb54176.png" alt="logo" />
-      <div>
+      <nav>
         <h3>Doormat Navigation</h3>
         <ul>
           <li>
@@ -26,7 +26,7 @@ const Footer = () => {
             <a href="#">Login</a>
           </li>
         </ul>
-      </div>
+      </nav>
 
       <div>
         <h3>Contact</h3>
